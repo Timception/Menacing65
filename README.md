@@ -1,4 +1,4 @@
-# Menacing 65
+# JSON Files for [Keyboard Layout Editor](http://www.keyboard-layout-editor.com)
 Menacing 65 - A Gasket Mounted 65% Keyboard That uses STM32 and VIAL-QMK Firmware
 
 * Keyboard Maintainer: [Timception](https://instagram.com/majin_keyboards)
