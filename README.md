@@ -2,7 +2,7 @@
 
 A Gasket Mounted 65% Keyboard That uses STM32 and VIAL-QMK Firmware
 --------------------------------------------------------------------------
-![Screenshot 2023-11-08 135337 copy](https://github.com/Timception/Menacing65/assets/84595044/7a2b9b69-97f4-4234-a7cd-e0fda8250392)
+![Menacing65PCB](https://github.com/Timception/Menacing65/assets/84595044/2988302a-3607-4efe-9c09-0b33a42323e6)
 
 * Keyboard Maintainer: [Timception](https://instagram.com/majin_keyboards)
 * Hardware Supported: STM32F401
